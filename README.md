@@ -26,10 +26,6 @@
 
 ![Roadmap](./Fix2024.svg)
 
-# Navigation
-
-**[Alternative navigation](https://cia.start.me/p/dlaxD0/ciaofficerv2)** ❗️
-
 #
 
 <details>
